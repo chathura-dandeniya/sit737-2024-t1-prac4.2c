@@ -1,0 +1,23 @@
+{
+  "name": "sit737-2024-t1-prac4.2c",
+  "version": "1.1.0",
+  "description": "Advanced Calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chathura-dandeniya/sit737-2024-t1-prac4.2c.git"
+  },
+  "author": "Chathura Dandeniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chathura-dandeniya/sit737-2024-t1-prac4.2c/issues"
+  },
+  "homepage": "https://github.com/chathura-dandeniya/sit737-2024-t1-prac4.2c#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "winston": "^3.13.0"
+  }
+}
